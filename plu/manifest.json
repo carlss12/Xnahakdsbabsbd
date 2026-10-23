@@ -1,0 +1,51 @@
+{
+  "name": "Ciprés + Ónix + Marfil",
+  "version": "1.0",
+  "scrapers": [
+    {
+      "id": "Cipres",
+      "name": "Ciprés",
+      "description": "Fuentes adicionales para canales en vivo",
+      "version": "1.0",
+      "author": "-",
+      "supportedTypes": [
+        "tv"
+      ],
+      "filename": "providers/cipres.js",
+      "enabled": true,
+      "contentLanguage": [
+        "es"
+      ]
+    },
+    {
+      "id": "Onix",
+      "name": "Ónix",
+      "description": "Canales deportivos en vivo. Se activa al abrir un canal de TV.",
+      "version": "1.2",
+      "author": "-",
+      "supportedTypes": [
+        "tv"
+      ],
+      "filename": "providers/onix.js",
+      "enabled": true,
+      "contentLanguage": [
+        "es"
+      ]
+    },
+    {
+      "id": "Marfil",
+      "name": "Marfil",
+      "description": "Canales de TV en vivo. Se activa al abrir un canal de TV.",
+      "version": "1.3",
+      "author": "-",
+      "supportedTypes": [
+        "tv"
+      ],
+      "filename": "providers/marfil.js",
+      "enabled": true,
+      "contentLanguage": [
+        "es"
+      ]
+    }
+  ]
+}
