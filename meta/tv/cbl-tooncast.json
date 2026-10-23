@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "cbl-tooncast",
+    "type": "tv",
+    "name": "Tooncast",
+    "poster": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-tooncast.png?v=2cc7df18",
+    "logo": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-tooncast.png?v=2cc7df18",
+    "background": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-tooncast.png?v=2cc7df18",
+    "posterShape": "landscape",
+    "genres": [
+      "Infantil"
+    ],
+    "description": "Canal en vivo — Tooncast."
+  }
+}

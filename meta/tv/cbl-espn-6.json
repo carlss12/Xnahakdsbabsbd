@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "cbl-espn-6",
+    "type": "tv",
+    "name": "ESPN 6",
+    "poster": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-espn-6.png?v=2cc7df18",
+    "logo": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-espn-6.png?v=2cc7df18",
+    "background": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-espn-6.png?v=2cc7df18",
+    "posterShape": "landscape",
+    "genres": [
+      "Deportes"
+    ],
+    "description": "Canal en vivo — ESPN 6."
+  }
+}

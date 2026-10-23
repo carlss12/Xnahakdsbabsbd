@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "cbl-cinecanal",
+    "type": "tv",
+    "name": "Cinecanal",
+    "poster": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-cinecanal.png?v=2cc7df18",
+    "logo": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-cinecanal.png?v=2cc7df18",
+    "background": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-cinecanal.png?v=2cc7df18",
+    "posterShape": "landscape",
+    "genres": [
+      "Cine y series"
+    ],
+    "description": "Canal en vivo — Cinecanal."
+  }
+}

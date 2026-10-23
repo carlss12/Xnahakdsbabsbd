@@ -1,0 +1,234 @@
+{
+  "metas": [
+    {
+      "id": "cbl-espn",
+      "type": "tv",
+      "name": "ESPN",
+      "poster": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-espn.png?v=2cc7df18",
+      "posterShape": "landscape",
+      "genres": [
+        "Deportes"
+      ]
+    },
+    {
+      "id": "cbl-espn-2",
+      "type": "tv",
+      "name": "ESPN 2",
+      "poster": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-espn-2.png?v=2cc7df18",
+      "posterShape": "landscape",
+      "genres": [
+        "Deportes"
+      ]
+    },
+    {
+      "id": "cbl-espn-3",
+      "type": "tv",
+      "name": "ESPN 3",
+      "poster": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-espn-3.png?v=2cc7df18",
+      "posterShape": "landscape",
+      "genres": [
+        "Deportes"
+      ]
+    },
+    {
+      "id": "cbl-espn-4",
+      "type": "tv",
+      "name": "ESPN 4",
+      "poster": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-espn-4.png?v=2cc7df18",
+      "posterShape": "landscape",
+      "genres": [
+        "Deportes"
+      ]
+    },
+    {
+      "id": "cbl-espn-5",
+      "type": "tv",
+      "name": "ESPN 5",
+      "poster": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-espn-5.png?v=2cc7df18",
+      "posterShape": "landscape",
+      "genres": [
+        "Deportes"
+      ]
+    },
+    {
+      "id": "cbl-espn-6",
+      "type": "tv",
+      "name": "ESPN 6",
+      "poster": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-espn-6.png?v=2cc7df18",
+      "posterShape": "landscape",
+      "genres": [
+        "Deportes"
+      ]
+    },
+    {
+      "id": "cbl-espn-7",
+      "type": "tv",
+      "name": "ESPN 7",
+      "poster": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-espn-7.png?v=2cc7df18",
+      "posterShape": "landscape",
+      "genres": [
+        "Deportes"
+      ]
+    },
+    {
+      "id": "cbl-espn-premium",
+      "type": "tv",
+      "name": "ESPN Premium",
+      "poster": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-espn-premium.png?v=2cc7df18",
+      "posterShape": "landscape",
+      "genres": [
+        "Deportes"
+      ]
+    },
+    {
+      "id": "cbl-fox-sports",
+      "type": "tv",
+      "name": "Fox Sports",
+      "poster": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-fox-sports.png?v=2cc7df18",
+      "posterShape": "landscape",
+      "genres": [
+        "Deportes"
+      ]
+    },
+    {
+      "id": "cbl-fox-sports-2",
+      "type": "tv",
+      "name": "Fox Sports 2",
+      "poster": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-fox-sports-2.png?v=2cc7df18",
+      "posterShape": "landscape",
+      "genres": [
+        "Deportes"
+      ]
+    },
+    {
+      "id": "cbl-fox-sports-3",
+      "type": "tv",
+      "name": "Fox Sports 3",
+      "poster": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-fox-sports-3.png?v=2cc7df18",
+      "posterShape": "landscape",
+      "genres": [
+        "Deportes"
+      ]
+    },
+    {
+      "id": "cbl-fox-sports-premium",
+      "type": "tv",
+      "name": "Fox Sports Premium",
+      "poster": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-fox-sports-premium.png?v=2cc7df18",
+      "posterShape": "landscape",
+      "genres": [
+        "Deportes"
+      ]
+    },
+    {
+      "id": "cbl-dsports",
+      "type": "tv",
+      "name": "DSports",
+      "poster": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-dsports.png?v=2cc7df18",
+      "posterShape": "landscape",
+      "genres": [
+        "Deportes"
+      ]
+    },
+    {
+      "id": "cbl-dsports-2",
+      "type": "tv",
+      "name": "DSports 2",
+      "poster": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-dsports-2.png?v=2cc7df18",
+      "posterShape": "landscape",
+      "genres": [
+        "Deportes"
+      ]
+    },
+    {
+      "id": "cbl-dsports-plus",
+      "type": "tv",
+      "name": "DSports Plus",
+      "poster": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-dsports-plus.png?v=2cc7df18",
+      "posterShape": "landscape",
+      "genres": [
+        "Deportes"
+      ]
+    },
+    {
+      "id": "cbl-tudn",
+      "type": "tv",
+      "name": "TUDN",
+      "poster": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-tudn.png?v=2cc7df18",
+      "posterShape": "landscape",
+      "genres": [
+        "Fútbol"
+      ]
+    },
+    {
+      "id": "cbl-liga-1",
+      "type": "tv",
+      "name": "Liga 1",
+      "poster": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-liga-1.png?v=2cc7df18",
+      "posterShape": "landscape",
+      "genres": [
+        "Fútbol"
+      ]
+    },
+    {
+      "id": "cbl-liga-1-max",
+      "type": "tv",
+      "name": "Liga 1 MAX",
+      "poster": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-liga-1-max.png?v=2cc7df18",
+      "posterShape": "landscape",
+      "genres": [
+        "Fútbol"
+      ]
+    },
+    {
+      "id": "cbl-bein-sports-xtra",
+      "type": "tv",
+      "name": "beIN Sports Xtra",
+      "poster": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-bein-sports-xtra.png?v=2cc7df18",
+      "posterShape": "landscape",
+      "genres": [
+        "Fútbol"
+      ]
+    },
+    {
+      "id": "cbl-sky-sports-la-liga",
+      "type": "tv",
+      "name": "Sky Sports La Liga",
+      "poster": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-sky-sports-la-liga.png?v=2cc7df18",
+      "posterShape": "landscape",
+      "genres": [
+        "Fútbol"
+      ]
+    },
+    {
+      "id": "cbl-tyc-sports",
+      "type": "tv",
+      "name": "TyC Sports",
+      "poster": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-tyc-sports.png?v=2cc7df18",
+      "posterShape": "landscape",
+      "genres": [
+        "Fútbol"
+      ]
+    },
+    {
+      "id": "cbl-movistar-la-liga",
+      "type": "tv",
+      "name": "Movistar La Liga",
+      "poster": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-movistar-la-liga.png?v=2cc7df18",
+      "posterShape": "landscape",
+      "genres": [
+        "Fútbol"
+      ]
+    },
+    {
+      "id": "cbl-movistar-liga-de-campeones",
+      "type": "tv",
+      "name": "Movistar Liga de Campeones",
+      "poster": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-movistar-liga-de-campeones.png?v=2cc7df18",
+      "posterShape": "landscape",
+      "genres": [
+        "Fútbol"
+      ]
+    }
+  ]
+}

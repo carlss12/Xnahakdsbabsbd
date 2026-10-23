@@ -1,0 +1,214 @@
+{
+  "metas": [
+    {
+      "id": "cbl-hbo",
+      "type": "tv",
+      "name": "HBO",
+      "poster": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-hbo.png?v=2cc7df18",
+      "posterShape": "landscape",
+      "genres": [
+        "Cine y series"
+      ]
+    },
+    {
+      "id": "cbl-hbo-2",
+      "type": "tv",
+      "name": "HBO 2",
+      "poster": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-hbo-2.png?v=2cc7df18",
+      "posterShape": "landscape",
+      "genres": [
+        "Cine y series"
+      ]
+    },
+    {
+      "id": "cbl-hbo-family",
+      "type": "tv",
+      "name": "HBO Family",
+      "poster": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-hbo-family.png?v=2cc7df18",
+      "posterShape": "landscape",
+      "genres": [
+        "Cine y series"
+      ]
+    },
+    {
+      "id": "cbl-hbo-plus",
+      "type": "tv",
+      "name": "HBO Plus",
+      "poster": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-hbo-plus.png?v=2cc7df18",
+      "posterShape": "landscape",
+      "genres": [
+        "Cine y series"
+      ]
+    },
+    {
+      "id": "cbl-hbo-mundi",
+      "type": "tv",
+      "name": "HBO Mundi",
+      "poster": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-hbo-mundi.png?v=2cc7df18",
+      "posterShape": "landscape",
+      "genres": [
+        "Cine y series"
+      ]
+    },
+    {
+      "id": "cbl-hbo-pop",
+      "type": "tv",
+      "name": "HBO Pop",
+      "poster": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-hbo-pop.png?v=2cc7df18",
+      "posterShape": "landscape",
+      "genres": [
+        "Cine y series"
+      ]
+    },
+    {
+      "id": "cbl-hbo-signature",
+      "type": "tv",
+      "name": "HBO Signature",
+      "poster": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-hbo-signature.png?v=2cc7df18",
+      "posterShape": "landscape",
+      "genres": [
+        "Cine y series"
+      ]
+    },
+    {
+      "id": "cbl-hbo-xtreme",
+      "type": "tv",
+      "name": "HBO Xtreme",
+      "poster": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-hbo-xtreme.png?v=2cc7df18",
+      "posterShape": "landscape",
+      "genres": [
+        "Cine y series"
+      ]
+    },
+    {
+      "id": "cbl-tnt",
+      "type": "tv",
+      "name": "TNT",
+      "poster": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-tnt.png?v=2cc7df18",
+      "posterShape": "landscape",
+      "genres": [
+        "Cine y series"
+      ]
+    },
+    {
+      "id": "cbl-cinemax",
+      "type": "tv",
+      "name": "Cinemax",
+      "poster": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-cinemax.png?v=2cc7df18",
+      "posterShape": "landscape",
+      "genres": [
+        "Cine y series"
+      ]
+    },
+    {
+      "id": "cbl-space",
+      "type": "tv",
+      "name": "Space",
+      "poster": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-space.png?v=2cc7df18",
+      "posterShape": "landscape",
+      "genres": [
+        "Cine y series"
+      ]
+    },
+    {
+      "id": "cbl-warner-channel",
+      "type": "tv",
+      "name": "Warner Channel",
+      "poster": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-warner-channel.png?v=2cc7df18",
+      "posterShape": "landscape",
+      "genres": [
+        "Cine y series"
+      ]
+    },
+    {
+      "id": "cbl-cinecanal",
+      "type": "tv",
+      "name": "Cinecanal",
+      "poster": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-cinecanal.png?v=2cc7df18",
+      "posterShape": "landscape",
+      "genres": [
+        "Cine y series"
+      ]
+    },
+    {
+      "id": "cbl-fx",
+      "type": "tv",
+      "name": "FX",
+      "poster": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-fx.png?v=2cc7df18",
+      "posterShape": "landscape",
+      "genres": [
+        "Cine y series"
+      ]
+    },
+    {
+      "id": "cbl-golden",
+      "type": "tv",
+      "name": "Golden",
+      "poster": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-golden.png?v=2cc7df18",
+      "posterShape": "landscape",
+      "genres": [
+        "Cine y series"
+      ]
+    },
+    {
+      "id": "cbl-golden-premier",
+      "type": "tv",
+      "name": "Golden Premier",
+      "poster": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-golden-premier.png?v=2cc7df18",
+      "posterShape": "landscape",
+      "genres": [
+        "Cine y series"
+      ]
+    },
+    {
+      "id": "cbl-tooncast",
+      "type": "tv",
+      "name": "Tooncast",
+      "poster": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-tooncast.png?v=2cc7df18",
+      "posterShape": "landscape",
+      "genres": [
+        "Infantil"
+      ]
+    },
+    {
+      "id": "cbl-azteca-uno",
+      "type": "tv",
+      "name": "Azteca Uno",
+      "poster": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-azteca-uno.png?v=2cc7df18",
+      "posterShape": "landscape",
+      "genres": [
+        "TV abierta"
+      ]
+    },
+    {
+      "id": "cbl-telefe",
+      "type": "tv",
+      "name": "Telefe",
+      "poster": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-telefe.png?v=2cc7df18",
+      "posterShape": "landscape",
+      "genres": [
+        "TV abierta"
+      ]
+    },
+    {
+      "id": "cbl-el-trece",
+      "type": "tv",
+      "name": "El Trece",
+      "poster": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-el-trece.png?v=2cc7df18",
+      "posterShape": "landscape",
+      "genres": [
+        "TV abierta"
+      ]
+    },
+    {
+      "id": "cbl-nickelodeon",
+      "type": "tv",
+      "name": "Nickelodeon",
+      "poster": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-nickelodeon.png?v=2cc7df18",
+      "posterShape": "landscape",
+      "genres": [
+        "Infantil"
+      ]
+    }
+  ]
+}

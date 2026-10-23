@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "cbl-azteca-uno",
+    "type": "tv",
+    "name": "Azteca Uno",
+    "poster": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-azteca-uno.png?v=2cc7df18",
+    "logo": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-azteca-uno.png?v=2cc7df18",
+    "background": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-azteca-uno.png?v=2cc7df18",
+    "posterShape": "landscape",
+    "genres": [
+      "TV abierta"
+    ],
+    "description": "Canal en vivo — Azteca Uno."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "cbl-espn-5",
+    "type": "tv",
+    "name": "ESPN 5",
+    "poster": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-espn-5.png?v=2cc7df18",
+    "logo": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-espn-5.png?v=2cc7df18",
+    "background": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-espn-5.png?v=2cc7df18",
+    "posterShape": "landscape",
+    "genres": [
+      "Deportes"
+    ],
+    "description": "Canal en vivo — ESPN 5."
+  }
+}
