@@ -14,6 +14,11 @@
       "name": "Lat 1",
       "title": "TNT Sports · Opción 3",
       "url": "http://181.78.79.131:8000/play/a0mo"
+    },
+    {
+      "name": "Lat 1",
+      "title": "TNT Sports · Opción 4",
+      "url": "http://181.119.185.32:8000/play/a00t/index.m3u8?hls"
     }
   ]
 }

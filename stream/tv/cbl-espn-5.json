@@ -34,6 +34,11 @@
       "name": "Lat 1",
       "title": "ESPN 5 · Opción 7",
       "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn5-mux/playlist.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "ESPN 5 · Opción 8",
+      "url": "http://190.102.120.20:8000/play/a005/index.m3u8?hls"
     }
   ]
 }

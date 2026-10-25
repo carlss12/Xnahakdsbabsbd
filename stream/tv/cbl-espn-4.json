@@ -29,6 +29,11 @@
       "name": "Lat 1",
       "title": "ESPN 4 · Opción 6",
       "url": "https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "ESPN 4 · Opción 7",
+      "url": "http://190.102.120.20:8000/play/a004/index.m3u8?hls"
     }
   ]
 }

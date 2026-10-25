@@ -14,6 +14,11 @@
       "name": "Lat 1",
       "title": "Liga 1 · Opción 3",
       "url": "http://45.5.57.132:8000/play/a08a/index.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "Liga 1 · Opción 4",
+      "url": "http://181.224.255.210:8001/play/a0sf/index.m3u8?hls"
     }
   ]
 }
