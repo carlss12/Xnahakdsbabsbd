@@ -4,7 +4,7 @@
  * Si una fuente deja de funcionar, se cambia la URL en CHANNELS (o se agrega otra a la lista del canal).
  */
 var DEBUG = true; // true: si el canal se reconoce pero no sale nada, aparece una entrada "DIAGNOSTICO". Poner en false al terminar de probar.
-var VERSION = "1.2.0";
+var VERSION = "1.3.0";
 var LABEL = "Lat 1";
 var PREFIX = "cbl-";
 
@@ -24,7 +24,12 @@ var CHANNELS = {
     "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn-mux/chunks.m3u8",
     "http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8",
     "http://tvsen7.aynascope.net/espn/index.m3u8",
-    "http://212.5.144.156:8080/espn/index.m3u8"
+    "http://212.5.144.156:8080/espn/index.m3u8",
+    "http://38.226.49.253:8000/play/a07l/index.m3u8?hls",
+    "http://190.60.45.197:2222/play/a0gz/index.m3u8?hls",
+    "http://190.102.120.20:8000/play/a04s/index.m3u8?hls",
+    "http://190.102.120.20:8000/play/a04r/index.m3u8?hls",
+    "http://190.102.120.20:8000/play/a001/index.m3u8?hls"
   ]]],
   "espn-2": [["ESPN 2", [
     "http://38.226.49.253:8000/play/a06g/index.m3u8?hls",
@@ -35,7 +40,11 @@ var CHANNELS = {
     "https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8",
     "http://190.61.47.54:8000/play/a005/index.m3u8",
     "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn2-mux/playlist.m3u8",
-    "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8"
+    "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8",
+    "http://190.60.45.197:2222/play/a01z/index.m3u8?hls",
+    "http://181.119.185.32:8000/play/a01w/index.m3u8?hls",
+    "http://190.102.120.20:8000/play/a04t/index.m3u8?hls",
+    "http://190.102.120.20:8000/play/a002/index.m3u8?hls"
   ]]],
   "espn-3": [["ESPN 3", [
     "http://190.102.120.20:8000/play/a043/index.m3u8?hls",
@@ -45,7 +54,11 @@ var CHANNELS = {
     "http://190.83.2.182:8090/ESPN3/index.m3u8",
     "https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8",
     "http://181.78.197.59:8000/play/a081/index.m3u8",
-    "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn3-mux/playlist.m3u8"
+    "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn3-mux/playlist.m3u8",
+    "http://190.60.45.197:2222/play/a045/index.m3u8?hls",
+    "http://181.119.185.32:8000/play/a009/index.m3u8?hls",
+    "http://190.102.120.20:8000/play/a003/index.m3u8?hls",
+    "http://181.224.255.210:8001/play/a0ps/index.m3u8?hls"
   ]]],
   "espn-4": [["ESPN 4", [
     "http://38.226.49.253:8000/play/a065/index.m3u8?hls",
@@ -53,7 +66,8 @@ var CHANNELS = {
     "http://190.61.101.11:7050/play/a08p/index.m3u8?hls",
     "http://200.59.191.177:8000/play/a0pz/index.m3u8?hls",
     "http://181.78.197.59:8000/play/a07n/index.m3u8",
-    "https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8"
+    "https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8",
+    "http://190.102.120.20:8000/play/a004/index.m3u8?hls"
   ]]],
   "espn-5": [["ESPN 5", [
     "http://38.226.49.253:8000/play/a078/index.m3u8?hls",
@@ -62,7 +76,8 @@ var CHANNELS = {
     "http://181.119.177.253:8000/play/a04y/index.m3u8",
     "http://181.224.255.210:8001/play/a0pr/index.m3u8?hls",
     "https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8",
-    "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn5-mux/playlist.m3u8"
+    "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn5-mux/playlist.m3u8",
+    "http://190.102.120.20:8000/play/a005/index.m3u8?hls"
   ]]],
   "espn-6": [["ESPN 6", [
     "http://190.60.45.197:2222/play/a027/index.m3u8?hls",
@@ -71,7 +86,8 @@ var CHANNELS = {
     "http://186.148.196.100:8000/play/a02q",
     "http://181.224.255.210:8001/play/a0eq/index.m3u8?hls",
     "https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8",
-    "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn6-mux/playlist.m3u8"
+    "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn6-mux/playlist.m3u8",
+    "http://190.102.120.20:8000/play/a006/index.m3u8?hls"
   ]]],
   "espn-7": [["ESPN 7", [
     "http://190.60.45.197:2222/play/a04k/index.m3u8?hls",
@@ -79,7 +95,9 @@ var CHANNELS = {
     "http://205.235.6.29:8000/play/a0zv/index.m3u8?hls",
     "http://200.59.191.177:8000/play/a0p2/index.m3u8?hls",
     "http://181.224.255.210:8001/play/a0m5/index.m3u8?hls",
-    "https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8"
+    "https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8",
+    "http://181.119.185.32:8000/play/a01y/index.m3u8?hls",
+    "http://190.102.120.20:8000/play/a008/index.m3u8?hls"
   ]]],
   "espn-premium": [["ESPN Premium", [
     "http://38.226.49.253:8000/play/a07t/index.m3u8?hls",
@@ -145,7 +163,9 @@ var CHANNELS = {
     "http://45.186.254.75:8000/play/a0en/index.m3u8",
     "http://157.100.9.51:8000/play/a26e",
     "http://15.204.146.163:8002/play/a00g/index.m3u8",
-    "http://138.121.113.175:8000/play/a0cj/index.m3u8"
+    "http://138.121.113.175:8000/play/a0cj/index.m3u8",
+    "http://cloudtvserviceplatinum.site:8080/live/Rene2024castaneda/Castaneda24rene/592036.ts",
+    "http://vhdigital.cl/live/Limacolombia2025/E7sRFtAnv9/592036.ts"
   ]]],
   "dsports-2": [["DSports 2", [
     "http://190.238.43.117:9000/play/a09f/index.m3u8",
@@ -171,7 +191,8 @@ var CHANNELS = {
   "liga-1": [["Liga 1", [
     "http://38.224.48.4:8000/play/a0y4/index.m3u8",
     "http://181.224.255.210:8001/play/a0sb/index.m3u8?hls",
-    "http://45.5.57.132:8000/play/a08a/index.m3u8"
+    "http://45.5.57.132:8000/play/a08a/index.m3u8",
+    "http://181.224.255.210:8001/play/a0sf/index.m3u8?hls"
   ]]],
   "liga-1-max": [["Liga 1 MAX", [
     "http://38.226.49.253:8000/play/a0g4/index.m3u8?hls",
@@ -203,7 +224,8 @@ var CHANNELS = {
     "http://45.5.57.132:8000/play/a08b/index.m3u8",
     "http://170.244.209.30:8000/play/a1i8/index.m3u8",
     "http://45.4.1.201:8000/play/a13e/index.m3u8",
-    "http://195.178.110.110/movistar/index.m3u8"
+    "http://195.178.110.110/movistar/index.m3u8",
+    "http://38.226.49.253:8000/play/a0gf/index.m3u8?hls"
   ]]],
   "win-sports": [["Win Sports", [
     "http://181.225.190.242:8000/play/a03r",
@@ -212,7 +234,11 @@ var CHANNELS = {
     "http://138.121.15.230:9002/WIN-SPORT/index.m3u8",
     "http://181.78.12.119:16123/play/ch18/index.m3u8",
     "http://15.204.146.163:8002/play/a00h/index.m3u8",
-    "http://168.228.44.241:9999/play/a050/index.m3u8"
+    "http://168.228.44.241:9999/play/a050/index.m3u8",
+    "http://190.60.45.197:2222/play/a03z/index.m3u8?hls",
+    "http://190.102.120.20:8000/play/a04o/index.m3u8?hls",
+    "http://190.102.120.20:8000/play/a03p/index.m3u8?hls",
+    "http://190.102.120.20:8000/play/a056/index.m3u8?hls"
   ]]],
   "win-sports-plus": [["Win Sports+", [
     "http://186.148.184.22:8000/play/a0ih/index.m3u8",
@@ -222,12 +248,14 @@ var CHANNELS = {
   "tnt-sports": [["TNT Sports", [
     "http://181.79.87.131:8000/play/a0e0/index.m3u8",
     "http://205.235.6.29:8000/play/a0xa/index.m3u8?hls",
-    "http://181.78.79.131:8000/play/a0mo"
+    "http://181.78.79.131:8000/play/a0mo",
+    "http://181.119.185.32:8000/play/a00t/index.m3u8?hls"
   ]]],
   "tnt-sports-premium": [["TNT Sports Premium", [
     "http://205.235.6.29:8000/play/a104/index.m3u8?hls",
     "http://200.59.191.177:8000/play/a0o9/index.m3u8?hls",
-    "http://190.108.83.69:8000/play/a03i/index.m3u8"
+    "http://190.108.83.69:8000/play/a03i/index.m3u8",
+    "http://38.226.49.253:8000/play/a06f/index.m3u8?hls"
   ]]],
   "hbo": [["HBO", [
     "http://181.119.185.32:8000/play/a00o/index.m3u8?hls",
@@ -388,6 +416,13 @@ var CHANNELS = {
     "http://181.78.79.131:8000/play/a0qm",
     "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8",
     "http://198.58.104.90:8989/nickelodeon/index.m3u8"
+  ]]],
+  "dzn": [["DZN", [
+    "http://cloudtvserviceplatinum.site:8080/live/Rene2024castaneda/Castaneda24rene/584995.ts",
+    "http://vhdigital.cl/live/Limacolombia2025/E7sRFtAnv9/584995.ts",
+    "http://cloudtvserviceplatinum.site:8080/live/Rene2024castaneda/Castaneda24rene/584993.ts",
+    "http://cloudtvserviceplatinum.site:8080/live/Rene2024castaneda/Castaneda24rene/584996.ts",
+    "http://cloudtvserviceplatinum.site:8080/live/Rene2024castaneda/Castaneda24rene/1328695.ts"
   ]]]
 };
 
