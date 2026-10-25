@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "cbl-dragon-ball",
+    "type": "tv",
+    "name": "Dragon Ball",
+    "poster": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-dragon-ball.png?v=80c5f98b",
+    "logo": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-dragon-ball.png?v=80c5f98b",
+    "background": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-dragon-ball.png?v=80c5f98b",
+    "posterShape": "landscape",
+    "genres": [
+      "Canales"
+    ],
+    "description": "Canal en vivo — Dragon Ball."
+  }
+}

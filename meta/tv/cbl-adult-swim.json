@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "cbl-adult-swim",
+    "type": "tv",
+    "name": "Adult Swim",
+    "poster": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-adult-swim.png?v=80c5f98b",
+    "logo": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-adult-swim.png?v=80c5f98b",
+    "background": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-adult-swim.png?v=80c5f98b",
+    "posterShape": "landscape",
+    "genres": [
+      "Canales"
+    ],
+    "description": "Canal en vivo — Adult Swim."
+  }
+}

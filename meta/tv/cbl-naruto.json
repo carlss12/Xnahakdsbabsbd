@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "cbl-naruto",
+    "type": "tv",
+    "name": "Naruto",
+    "poster": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-naruto.png?v=80c5f98b",
+    "logo": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-naruto.png?v=80c5f98b",
+    "background": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-naruto.png?v=80c5f98b",
+    "posterShape": "landscape",
+    "genres": [
+      "Canales"
+    ],
+    "description": "Canal en vivo — Naruto."
+  }
+}

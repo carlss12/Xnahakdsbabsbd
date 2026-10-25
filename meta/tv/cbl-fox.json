@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "cbl-fox",
+    "type": "tv",
+    "name": "FOX",
+    "poster": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-fox.png?v=80c5f98b",
+    "logo": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-fox.png?v=80c5f98b",
+    "background": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-fox.png?v=80c5f98b",
+    "posterShape": "landscape",
+    "genres": [
+      "Deportes"
+    ],
+    "description": "Canal en vivo — FOX."
+  }
+}

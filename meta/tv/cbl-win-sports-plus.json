@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "cbl-win-sports-plus",
+    "type": "tv",
+    "name": "Win Sports+",
+    "poster": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-win-sports-plus.png?v=80c5f98b",
+    "logo": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-win-sports-plus.png?v=80c5f98b",
+    "background": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-win-sports-plus.png?v=80c5f98b",
+    "posterShape": "landscape",
+    "genres": [
+      "Deportes"
+    ],
+    "description": "Canal en vivo — Win Sports+."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "cbl-bitme",
+    "type": "tv",
+    "name": "bitMe",
+    "poster": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-bitme.png?v=80c5f98b",
+    "logo": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-bitme.png?v=80c5f98b",
+    "background": "https://raw.githubusercontent.com/carlss12/Xnahakdsbabsbd/main/logos/cbl-bitme.png?v=80c5f98b",
+    "posterShape": "landscape",
+    "genres": [
+      "Canales"
+    ],
+    "description": "Canal en vivo — bitMe."
+  }
+}
