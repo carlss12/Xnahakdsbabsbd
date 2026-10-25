@@ -72,6 +72,12 @@
     "genre": "Deportes"
   },
   {
+    "slug": "fox",
+    "name": "FOX",
+    "category": "deportes",
+    "genre": "Deportes"
+  },
+  {
     "slug": "dsports",
     "name": "DSports",
     "category": "deportes",
@@ -120,10 +126,22 @@
     "genre": "Fútbol"
   },
   {
+    "slug": "sky-sports-f1",
+    "name": "Sky Sports F1",
+    "category": "deportes",
+    "genre": "Deportes"
+  },
+  {
     "slug": "tyc-sports",
     "name": "TyC Sports",
     "category": "deportes",
     "genre": "Fútbol"
+  },
+  {
+    "slug": "movistar-deportes",
+    "name": "Movistar Deportes",
+    "category": "deportes",
+    "genre": "Deportes"
   },
   {
     "slug": "movistar-la-liga",
@@ -136,6 +154,30 @@
     "name": "Movistar Liga de Campeones",
     "category": "deportes",
     "genre": "Fútbol"
+  },
+  {
+    "slug": "win-sports",
+    "name": "Win Sports",
+    "category": "deportes",
+    "genre": "Deportes"
+  },
+  {
+    "slug": "win-sports-plus",
+    "name": "Win Sports+",
+    "category": "deportes",
+    "genre": "Deportes"
+  },
+  {
+    "slug": "tnt-sports",
+    "name": "TNT Sports",
+    "category": "deportes",
+    "genre": "Deportes"
+  },
+  {
+    "slug": "tnt-sports-premium",
+    "name": "TNT Sports Premium",
+    "category": "deportes",
+    "genre": "Deportes"
   },
   {
     "slug": "hbo",
@@ -238,6 +280,36 @@
     "name": "Tooncast",
     "category": "canales",
     "genre": "Infantil"
+  },
+  {
+    "slug": "adult-swim",
+    "name": "Adult Swim",
+    "category": "canales",
+    "genre": "Canales"
+  },
+  {
+    "slug": "bitme",
+    "name": "bitMe",
+    "category": "canales",
+    "genre": "Canales"
+  },
+  {
+    "slug": "dragon-ball",
+    "name": "Dragon Ball",
+    "category": "canales",
+    "genre": "Canales"
+  },
+  {
+    "slug": "dragon-ball-z",
+    "name": "Dragon Ball Z",
+    "category": "canales",
+    "genre": "Canales"
+  },
+  {
+    "slug": "naruto",
+    "name": "Naruto",
+    "category": "canales",
+    "genre": "Canales"
   },
   {
     "slug": "azteca-uno",
