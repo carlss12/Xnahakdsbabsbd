@@ -96,6 +96,13 @@
     "genre": "Deportes"
   },
   {
+    "slug": "dzn",
+    "name": "DZN",
+    "category": "deportes",
+    "genre": "Deportes",
+    "iptv": "DAZN"
+  },
+  {
     "slug": "tudn",
     "name": "TUDN",
     "category": "deportes",
