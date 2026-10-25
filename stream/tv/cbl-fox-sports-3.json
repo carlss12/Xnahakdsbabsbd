@@ -1,1 +1,19 @@
-{"streams":[]}
+{
+  "streams": [
+    {
+      "name": "Lat 1",
+      "title": "Fox Sports 3 · Opción 1",
+      "url": "http://liontv.es:8080/Euphoria/Euphoria2023/345278"
+    },
+    {
+      "name": "Lat 1",
+      "title": "Fox Sports 3 · Opción 2",
+      "url": "http://45.167.2.138:8000/play/a0qn/index.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "Fox Sports 3 · Opción 3",
+      "url": "http://45.167.2.101:8000/play/a0rw/index.m3u8"
+    }
+  ]
+}

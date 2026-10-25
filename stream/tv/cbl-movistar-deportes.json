@@ -1,1 +1,64 @@
-{"streams":[]}
+{
+  "streams": [
+    {
+      "name": "Lat 1",
+      "title": "Movistar Deportes · Opción 1",
+      "url": "http://190.108.83.69:8000/play/a07o/index.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "Movistar Deportes · Opción 2",
+      "url": "http://157.100.9.51:8000/play/a22s"
+    },
+    {
+      "name": "Lat 1",
+      "title": "Movistar Deportes · Opción 3",
+      "url": "http://205.235.6.29:8000/play/a0zd/index.m3u8?hls"
+    },
+    {
+      "name": "Lat 1",
+      "title": "Movistar Deportes · Opción 4",
+      "url": "http://186.33.57.100:8000/play/a2m7/index.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "Movistar Deportes · Opción 5",
+      "url": "http://38.199.5.160:8000/play/a0c9/index.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "Movistar Deportes · Opción 6",
+      "url": "http://38.56.111.14:8000/play/a02y/index.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "Movistar Deportes · Opción 7",
+      "url": "http://38.210.105.10:8000/play/a0j7/index.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "Movistar Deportes · Opción 8",
+      "url": "http://45.186.254.75:8000/play/a0es/index.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "Movistar Deportes · Opción 9",
+      "url": "http://45.5.57.132:8000/play/a08b/index.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "Movistar Deportes · Opción 10",
+      "url": "http://170.244.209.30:8000/play/a1i8/index.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "Movistar Deportes · Opción 11",
+      "url": "http://45.4.1.201:8000/play/a13e/index.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "Movistar Deportes · Opción 12",
+      "url": "http://195.178.110.110/movistar/index.m3u8"
+    }
+  ]
+}

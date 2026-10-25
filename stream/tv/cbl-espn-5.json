@@ -1,1 +1,39 @@
-{"streams":[]}
+{
+  "streams": [
+    {
+      "name": "Lat 1",
+      "title": "ESPN 5 · Opción 1",
+      "url": "http://38.226.49.253:8000/play/a078/index.m3u8?hls"
+    },
+    {
+      "name": "Lat 1",
+      "title": "ESPN 5 · Opción 2",
+      "url": "http://181.119.185.32:8000/play/a00n/index.m3u8?hls"
+    },
+    {
+      "name": "Lat 1",
+      "title": "ESPN 5 · Opción 3",
+      "url": "http://190.61.101.11:7050/play/a06j/index.m3u8?hls"
+    },
+    {
+      "name": "Lat 1",
+      "title": "ESPN 5 · Opción 4",
+      "url": "http://181.119.177.253:8000/play/a04y/index.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "ESPN 5 · Opción 5",
+      "url": "http://181.224.255.210:8001/play/a0pr/index.m3u8?hls"
+    },
+    {
+      "name": "Lat 1",
+      "title": "ESPN 5 · Opción 6",
+      "url": "https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "ESPN 5 · Opción 7",
+      "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn5-mux/playlist.m3u8"
+    }
+  ]
+}

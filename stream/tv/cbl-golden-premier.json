@@ -1,1 +1,24 @@
-{"streams":[]}
+{
+  "streams": [
+    {
+      "name": "Lat 1",
+      "title": "Golden Premier · Opción 1",
+      "url": "http://200.229.147.210:9999/play/a00k/index.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "Golden Premier · Opción 2",
+      "url": "http://200.229.147.210:9999/play/a00l/index.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "Golden Premier · Opción 3",
+      "url": "http://200.57.28.141:8540/play/a0ln"
+    },
+    {
+      "name": "Lat 1",
+      "title": "Golden Premier · Opción 4",
+      "url": "http://200.57.28.141:8540/play/a0lo"
+    }
+  ]
+}

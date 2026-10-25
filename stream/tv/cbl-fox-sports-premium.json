@@ -1,1 +1,14 @@
-{"streams":[]}
+{
+  "streams": [
+    {
+      "name": "Lat 1",
+      "title": "Fox Sports Premium · Opción 1",
+      "url": "http://190.61.101.11:7050/play/a08w/index.m3u8?hls"
+    },
+    {
+      "name": "Lat 1",
+      "title": "Fox Sports Premium · Opción 2",
+      "url": "http://190.61.101.11:7050/play/a08u/index.m3u8?hls"
+    }
+  ]
+}

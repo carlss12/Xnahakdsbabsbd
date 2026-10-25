@@ -1,1 +1,24 @@
-{"streams":[]}
+{
+  "streams": [
+    {
+      "name": "Lat 1",
+      "title": "Liga 1 MAX · Opción 1",
+      "url": "http://38.226.49.253:8000/play/a0g4/index.m3u8?hls"
+    },
+    {
+      "name": "Lat 1",
+      "title": "Liga 1 MAX · Opción 2",
+      "url": "http://186.148.196.100:8000/play/a030"
+    },
+    {
+      "name": "Lat 1",
+      "title": "Liga 1 MAX · Opción 3",
+      "url": "http://190.60.59.60:8000/play/a0sv/index.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "Liga 1 MAX · Opción 4",
+      "url": "http://38.224.48.4:8000/play/a0x2/index.m3u8"
+    }
+  ]
+}

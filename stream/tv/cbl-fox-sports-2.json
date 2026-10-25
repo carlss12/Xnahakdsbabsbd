@@ -1,1 +1,29 @@
-{"streams":[]}
+{
+  "streams": [
+    {
+      "name": "Lat 1",
+      "title": "Fox Sports 2 · Opción 1",
+      "url": "http://liontv.es:8080/Euphoria/Euphoria2023/473005"
+    },
+    {
+      "name": "Lat 1",
+      "title": "Fox Sports 2 · Opción 2",
+      "url": "http://190.61.101.11:7050/play/a08v/index.m3u8?hls"
+    },
+    {
+      "name": "Lat 1",
+      "title": "Fox Sports 2 · Opción 3",
+      "url": "http://186.33.26.18:8000/play/a0rt/index.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "Fox Sports 2 · Opción 4",
+      "url": "https://zapster.trapemn.tv:1936/CD-LATAM/FoxSports2/playlist.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "Fox Sports 2 · Opción 5",
+      "url": "https://tvsen7.aynascope.net/foxsports2/index.m3u8"
+    }
+  ]
+}

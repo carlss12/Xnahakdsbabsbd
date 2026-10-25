@@ -1,1 +1,19 @@
-{"streams":[]}
+{
+  "streams": [
+    {
+      "name": "Lat 1",
+      "title": "TNT Sports Premium · Opción 1",
+      "url": "http://205.235.6.29:8000/play/a104/index.m3u8?hls"
+    },
+    {
+      "name": "Lat 1",
+      "title": "TNT Sports Premium · Opción 2",
+      "url": "http://200.59.191.177:8000/play/a0o9/index.m3u8?hls"
+    },
+    {
+      "name": "Lat 1",
+      "title": "TNT Sports Premium · Opción 3",
+      "url": "http://190.108.83.69:8000/play/a03i/index.m3u8"
+    }
+  ]
+}

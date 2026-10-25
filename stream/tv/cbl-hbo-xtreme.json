@@ -1,1 +1,19 @@
-{"streams":[]}
+{
+  "streams": [
+    {
+      "name": "Lat 1",
+      "title": "HBO Xtreme · Opción 1",
+      "url": "http://181.224.255.210:8001/play/a0nw/index.m3u8?hls"
+    },
+    {
+      "name": "Lat 1",
+      "title": "HBO Xtreme · Opción 2",
+      "url": "http://38.226.49.253:8000/play/a07w/index.m3u8?hls"
+    },
+    {
+      "name": "Lat 1",
+      "title": "HBO Xtreme · Opción 3",
+      "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO_Xtreme/chunks.m3u8"
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"streams":[]}
+{
+  "streams": [
+    {
+      "name": "Lat 1",
+      "title": "Cinecanal · Opción 1",
+      "url": "http://181.224.255.210:8001/play/a0ob/index.m3u8?hls"
+    },
+    {
+      "name": "Lat 1",
+      "title": "Cinecanal · Opción 2",
+      "url": "http://38.226.49.253:8000/play/a05z/index.m3u8?hls"
+    },
+    {
+      "name": "Lat 1",
+      "title": "Cinecanal · Opción 3",
+      "url": "http://15.204.246.24:8080/CinecanalHD/index.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "Cinecanal · Opción 4",
+      "url": "http://138.121.15.230:9002/CINECANAL/index.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "Cinecanal · Opción 5",
+      "url": "http://190.61.47.54:8000/play/a02z/index.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "Cinecanal · Opción 6",
+      "url": "https://barinaslive1.boldmss.com/CINECANAL/CINECANAL.isml/CINECANAL.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "Cinecanal · Opción 7",
+      "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Cinecanal-key/chunks.m3u8"
+    }
+  ]
+}

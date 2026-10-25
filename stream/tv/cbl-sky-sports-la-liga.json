@@ -1,1 +1,39 @@
-{"streams":[]}
+{
+  "streams": [
+    {
+      "name": "Lat 1",
+      "title": "Sky Sports La Liga · Opción 1",
+      "url": "http://190.61.101.11:7050/play/a04g/index.m3u8?hls"
+    },
+    {
+      "name": "Lat 1",
+      "title": "Sky Sports La Liga · Opción 2",
+      "url": "http://45.5.118.152:8000/play/a08f/index.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "Sky Sports La Liga · Opción 3",
+      "url": "http://181.119.177.253:8000/play/a0dz/index.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "Sky Sports La Liga · Opción 4",
+      "url": "http://186.33.61.182:8000/play/a05q/index.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "Sky Sports La Liga · Opción 5",
+      "url": "http://45.5.118.188:8000/play/a06p/index.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "Sky Sports La Liga · Opción 6",
+      "url": "http://186.33.1.71:8000/play/a03u/index.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "Sky Sports La Liga · Opción 7",
+      "url": "http://186.148.184.22:8000/play/a0i6/index.m3u8"
+    }
+  ]
+}

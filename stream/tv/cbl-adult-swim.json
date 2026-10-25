@@ -1,1 +1,24 @@
-{"streams":[]}
+{
+  "streams": [
+    {
+      "name": "Lat 1",
+      "title": "Adult Swim · Opción 1",
+      "url": "http://168.197.104.22/ADULT_SWIM/index.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "Adult Swim · Opción 2",
+      "url": "http://45.162.64.114/ADULT_SWIM/index.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "Adult Swim · Opción 3",
+      "url": "http://170.244.209.30:8000/play/a02v/index.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "Adult Swim · Opción 4",
+      "url": "https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8"
+    }
+  ]
+}

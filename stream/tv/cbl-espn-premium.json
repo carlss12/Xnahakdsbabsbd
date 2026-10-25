@@ -1,1 +1,34 @@
-{"streams":[]}
+{
+  "streams": [
+    {
+      "name": "Lat 1",
+      "title": "ESPN Premium · Opción 1",
+      "url": "http://38.226.49.253:8000/play/a07t/index.m3u8?hls"
+    },
+    {
+      "name": "Lat 1",
+      "title": "ESPN Premium · Opción 2",
+      "url": "http://181.224.255.210:8001/play/a0pt/index.m3u8?hls"
+    },
+    {
+      "name": "Lat 1",
+      "title": "ESPN Premium · Opción 3",
+      "url": "http://205.235.6.29:8000/play/a0wl/index.m3u8?hls"
+    },
+    {
+      "name": "Lat 1",
+      "title": "ESPN Premium · Opción 4",
+      "url": "http://181.119.84.106:8000/play/a0qw/index.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "ESPN Premium · Opción 5",
+      "url": "http://158.172.155.130:8000/play/a0ao/index.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "ESPN Premium · Opción 6",
+      "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn_premium.stream/playlist.m3u8"
+    }
+  ]
+}

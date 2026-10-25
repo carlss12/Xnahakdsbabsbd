@@ -1,1 +1,34 @@
-{"streams":[]}
+{
+  "streams": [
+    {
+      "name": "Lat 1",
+      "title": "HBO · Opción 1",
+      "url": "http://181.119.185.32:8000/play/a00o/index.m3u8?hls"
+    },
+    {
+      "name": "Lat 1",
+      "title": "HBO · Opción 2",
+      "url": "http://181.224.255.210:8001/play/a0f161/index.m3u8?hls"
+    },
+    {
+      "name": "Lat 1",
+      "title": "HBO · Opción 3",
+      "url": "https://streaming.onnethn.com/HBO/playlist.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "HBO · Opción 4",
+      "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO/chunks.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "HBO · Opción 5",
+      "url": "http://15.204.246.24:8080/HBOHD/index.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "HBO · Opción 6",
+      "url": "http://tvsen7.aynascope.net/hbo/index.m3u8"
+    }
+  ]
+}

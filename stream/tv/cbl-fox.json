@@ -1,1 +1,109 @@
-{"streams":[]}
+{
+  "streams": [
+    {
+      "name": "Lat 1",
+      "title": "FOX · Opción 1",
+      "url": "http://186.33.0.57:8000/play/a048/index.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "FOX · Opción 2",
+      "url": "http://45.228.234.62:8000/play/a05i/index.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "FOX · Opción 3",
+      "url": "http://45.5.118.188:8000/play/a04i/index.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "FOX · Opción 4",
+      "url": "http://45.5.116.228:8000/play/a05z/index.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "FOX · Opción 5",
+      "url": "http://38.52.208.106:8000/play/a048/index.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "FOX · Opción 6",
+      "url": "http://45.167.1.138:8000/play/a05u"
+    },
+    {
+      "name": "Lat 1",
+      "title": "FOX · Opción 7",
+      "url": "http://45.167.1.139:8000/play/a05u"
+    },
+    {
+      "name": "Lat 1",
+      "title": "FOX · Opción 8",
+      "url": "http://45.167.1.136:8000/play/a05u"
+    },
+    {
+      "name": "Lat 1",
+      "title": "FOX · Opción 9",
+      "url": "http://45.167.1.137:8000/play/a05u"
+    },
+    {
+      "name": "Lat 1",
+      "title": "FOX · Opción 10",
+      "url": "http://181.119.177.253:8000/play/a0cy/index.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "FOX · Opción 11",
+      "url": "http://190.61.101.11:7050/play/a0a9/index.m3u8?hls"
+    },
+    {
+      "name": "Lat 1",
+      "title": "FOX · Opción 12",
+      "url": "http://186.33.0.57:8000/play/a069/index.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "FOX · Opción 13",
+      "url": "http://190.61.101.11:7050/play/a0a4/index.m3u8?hls"
+    },
+    {
+      "name": "Lat 1",
+      "title": "FOX · Opción 14",
+      "url": "http://45.5.118.152:8000/play/a08x/index.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "FOX · Opción 15",
+      "url": "http://190.61.101.11:7050/play/a0af/index.m3u8?hls"
+    },
+    {
+      "name": "Lat 1",
+      "title": "FOX · Opción 16",
+      "url": "https://live-manifest.production-public.tubi.io/live/13a764a8-a91d-4a17-a7f7-ee99250598b5/playlist.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "FOX · Opción 17",
+      "url": "http://45.186.105.214:8000/play/a10f/index.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "FOX · Opción 18",
+      "url": "http://181.78.192.238:8000/play/a2hg/index.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "FOX · Opción 19",
+      "url": "http://181.78.192.238:8000/play/a2hu/index.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "FOX · Opción 20",
+      "url": "https://b.tubi1.apollo.adrise.io/live/fox-2-j8fvmx.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "FOX · Opción 21",
+      "url": "https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8"
+    }
+  ]
+}

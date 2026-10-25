@@ -1,1 +1,44 @@
-{"streams":[]}
+{
+  "streams": [
+    {
+      "name": "Lat 1",
+      "title": "Fox Sports · Opción 1",
+      "url": "http://liontv.es:8080/Euphoria/Euphoria2023/388690"
+    },
+    {
+      "name": "Lat 1",
+      "title": "Fox Sports · Opción 2",
+      "url": "http://190.61.101.11:7050/play/a08t/index.m3u8?hls"
+    },
+    {
+      "name": "Lat 1",
+      "title": "Fox Sports · Opción 3",
+      "url": "http://45.167.2.138:8000/play/a0ql/index.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "Fox Sports · Opción 4",
+      "url": "http://138.59.227.20:8000/play/a085/index.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "Fox Sports · Opción 5",
+      "url": "http://158.172.155.130:8000/play/a09x/index.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "Fox Sports · Opción 6",
+      "url": "http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "Fox Sports · Opción 7",
+      "url": "http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "Fox Sports · Opción 8",
+      "url": "https://tvsen7.aynascope.net/foxsports1/index.m3u8"
+    }
+  ]
+}

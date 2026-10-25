@@ -1,1 +1,9 @@
-{"streams":[]}
+{
+  "streams": [
+    {
+      "name": "Lat 1",
+      "title": "Sky Sports F1 · Opción 1",
+      "url": "http://157.100.9.51:8000/play/a25q"
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"streams":[]}
+{
+  "streams": [
+    {
+      "name": "Lat 1",
+      "title": "DSports · Opción 1",
+      "url": "http://38.187.7.252:8000/play/a03d/index.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "DSports · Opción 2",
+      "url": "http://190.117.20.37:8000/play/a08d/38457924.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "DSports · Opción 3",
+      "url": "http://181.224.255.210:8001/play/a0s8/index.m3u8?hls"
+    },
+    {
+      "name": "Lat 1",
+      "title": "DSports · Opción 4",
+      "url": "http://45.186.254.75:8000/play/a0en/index.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "DSports · Opción 5",
+      "url": "http://157.100.9.51:8000/play/a26e"
+    },
+    {
+      "name": "Lat 1",
+      "title": "DSports · Opción 6",
+      "url": "http://15.204.146.163:8002/play/a00g/index.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "DSports · Opción 7",
+      "url": "http://138.121.113.175:8000/play/a0cj/index.m3u8"
+    }
+  ]
+}

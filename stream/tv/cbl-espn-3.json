@@ -1,1 +1,44 @@
-{"streams":[]}
+{
+  "streams": [
+    {
+      "name": "Lat 1",
+      "title": "ESPN 3 · Opción 1",
+      "url": "http://190.102.120.20:8000/play/a043/index.m3u8?hls"
+    },
+    {
+      "name": "Lat 1",
+      "title": "ESPN 3 · Opción 2",
+      "url": "http://38.226.49.253:8000/play/a07g/index.m3u8?hls"
+    },
+    {
+      "name": "Lat 1",
+      "title": "ESPN 3 · Opción 3",
+      "url": "http://190.61.101.11:7050/play/a05d/index.m3u8?hls"
+    },
+    {
+      "name": "Lat 1",
+      "title": "ESPN 3 · Opción 4",
+      "url": "http://181.225.73.159:8000/play/a03f/index.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "ESPN 3 · Opción 5",
+      "url": "http://190.83.2.182:8090/ESPN3/index.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "ESPN 3 · Opción 6",
+      "url": "https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "ESPN 3 · Opción 7",
+      "url": "http://181.78.197.59:8000/play/a081/index.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "ESPN 3 · Opción 8",
+      "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn3-mux/playlist.m3u8"
+    }
+  ]
+}

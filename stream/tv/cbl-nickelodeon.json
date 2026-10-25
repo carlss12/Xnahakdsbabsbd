@@ -1,1 +1,49 @@
-{"streams":[]}
+{
+  "streams": [
+    {
+      "name": "Lat 1",
+      "title": "Nickelodeon · Opción 1",
+      "url": "http://181.119.185.32:8000/play/a015/index.m3u8?hls"
+    },
+    {
+      "name": "Lat 1",
+      "title": "Nickelodeon · Opción 2",
+      "url": "http://181.224.255.210:8001/play/a0ol/index.m3u8?hls"
+    },
+    {
+      "name": "Lat 1",
+      "title": "Nickelodeon · Opción 3",
+      "url": "http://15.204.246.24:8080/NickHD/index.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "Nickelodeon · Opción 4",
+      "url": "http://190.93.224.42/NICK/index.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "Nickelodeon · Opción 5",
+      "url": "https://barinaslive1.boldmss.com/NICK/NICK.isml/NICK.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "Nickelodeon · Opción 6",
+      "url": "https://zapster.trapemn.tv:1936/CD-LATAM/Nickelodeon/playlist.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "Nickelodeon · Opción 7",
+      "url": "http://181.78.79.131:8000/play/a0qm"
+    },
+    {
+      "name": "Lat 1",
+      "title": "Nickelodeon · Opción 8",
+      "url": "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "Nickelodeon · Opción 9",
+      "url": "http://198.58.104.90:8989/nickelodeon/index.m3u8"
+    }
+  ]
+}

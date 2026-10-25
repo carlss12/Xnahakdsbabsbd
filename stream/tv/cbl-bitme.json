@@ -1,1 +1,19 @@
-{"streams":[]}
+{
+  "streams": [
+    {
+      "name": "Lat 1",
+      "title": "bitMe · Opción 1",
+      "url": "https://cablered.iptvperu.tv:1936/cablered/bitme-srt_new/playlist.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "bitMe · Opción 2",
+      "url": "https://cablered.iptvperu.tv:1936/cablered/bitme_new/playlist.m3u8"
+    },
+    {
+      "name": "Lat 1",
+      "title": "bitMe · Opción 3",
+      "url": "http://200.229.147.210:9999/play/a01y/index.m3u8"
+    }
+  ]
+}
