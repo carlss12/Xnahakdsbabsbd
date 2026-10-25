@@ -3,7 +3,7 @@ name: Generar catalogo
 on:
   push:
     branches: [main]
-    paths: ['channels.json', 'build.js', 'package.json']
+    paths: ['channels.json', 'build.js', 'package.json', 'plu/providers/cipres.js']
   workflow_dispatch: {}
 
 permissions:
