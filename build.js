@@ -3,6 +3,7 @@
 // (https://iptv-org.github.io/api) y, si no aparece, se genera una tarjeta con el nombre.
 const fs = require('fs');
 const path = require('path');
+const vm = require('vm');
 
 const OUT_DIR = __dirname;
 const PREFIX = 'cbl-';
@@ -165,6 +166,33 @@ async function asegurarLogo(ch, id) {
   return rel;
 }
 
+// ---------- fuentes de Cipres dentro del addon ----------
+// Nuvio en la TV pide las fuentes de los canales (tipo "tv") solo al addon, no a los plugins.
+// Por eso las URLs de plu/providers/cipres.js se copian aqui a stream/tv/<id>.json.
+// cipres.js sigue siendo la unica lista que hay que editar.
+function cargarCipres() {
+  const file = path.join(OUT_DIR, 'plu', 'providers', 'cipres.js');
+  if (!fs.existsSync(file)) { console.warn('  ! No encuentro plu/providers/cipres.js: los canales quedan sin fuentes.'); return { channels: {}, label: 'Lat 1' }; }
+  const ctx = { exports: {} };
+  vm.createContext(ctx);
+  vm.runInContext(fs.readFileSync(file, 'utf8'), ctx);
+  return { channels: ctx.CHANNELS || {}, label: ctx.LABEL || 'Lat 1' };
+}
+
+function streamsDeCipres(cipres, slug) {
+  const grupos = cipres.channels[slug] || [];
+  const vistos = new Set();
+  const streams = [];
+  for (const [nombre, urls] of grupos) {
+    urls.forEach((url, n) => {
+      if (vistos.has(url)) return;
+      vistos.add(url);
+      streams.push({ name: cipres.label, title: `${nombre} · Opción ${n + 1}`, url });
+    });
+  }
+  return streams;
+}
+
 // ---------- main ----------
 async function main() {
   const canales = JSON.parse(fs.readFileSync(path.join(OUT_DIR, 'channels.json'), 'utf8'));
@@ -177,6 +205,8 @@ async function main() {
   for (const d of ['meta', 'stream', 'catalog']) fs.rmSync(path.join(OUT_DIR, d), { recursive: true, force: true });
   for (const d of ['meta/tv', 'stream/tv', 'catalog/tv', 'logos']) fs.mkdirSync(path.join(OUT_DIR, d), { recursive: true });
 
+  const cipres = cargarCipres();
+  let sinFuentes = [];
   const porCatalogo = {};
   CATALOGS.forEach(c => { porCatalogo[c.key] = []; });
   const usados = new Set();
@@ -202,8 +232,10 @@ async function main() {
       description: `Canal en vivo — ${ch.name}.`
     };
     fs.writeFileSync(path.join(OUT_DIR, 'meta', 'tv', `${id}.json`), JSON.stringify({ meta }, null, 2));
-    // las fuentes las ponen los plugins; este archivo vacio solo evita errores 404
-    fs.writeFileSync(path.join(OUT_DIR, 'stream', 'tv', `${id}.json`), JSON.stringify({ streams: [] }));
+    // fuentes fijas de Cipres; Onix y Marfil (con token) siguen entrando por plugin
+    const streams = streamsDeCipres(cipres, ch.slug);
+    if (!streams.length) sinFuentes.push(ch.slug);
+    fs.writeFileSync(path.join(OUT_DIR, 'stream', 'tv', `${id}.json`), JSON.stringify({ streams }, null, 2));
     porCatalogo[ch.category].push({ id, type: 'tv', name: meta.name, poster, posterShape: 'landscape', genres: meta.genres });
   }
 
@@ -224,6 +256,7 @@ async function main() {
   };
   fs.writeFileSync(path.join(OUT_DIR, 'manifest.json'), JSON.stringify(manifest, null, 2));
 
+  if (sinFuentes.length) console.log(`Sin fuentes fijas (solo por plugin): ${sinFuentes.join(', ')}`);
   console.log(`Listo: ${canales.length} canales (${CATALOGS.map(c => `${c.name}: ${porCatalogo[c.key].length}`).join(', ')}).`);
 }
 
